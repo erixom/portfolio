@@ -9,6 +9,7 @@ Leveraging Air Quality Data and Health Informatics to Mitigate Asthma Symptoms i
 ## Abstract
 
 Respiratory conditions (such as Asthma and COPD), often worsen depending on the air quality and current air pollutant levels. Using air quality data in conjunction with patient health records and inhaler usage data could be used to identify and preempt asthma symptoms caused by poor air quality. Challenges include the location-specific accuracy of traditional air quality monitoring and time delay. Future work could include advance machine learning models to take into effect these variables and past symptoms on a patient. 
+
 ---
 
 ## Methodology
@@ -65,5 +66,6 @@ This project was researched and presented by **Evan Rixom** as part of a health 
 ## Acknowledgements
 
 Thanks to my instructors and all the above references. 
+
 ---
 
