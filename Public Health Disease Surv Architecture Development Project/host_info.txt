@@ -1,0 +1,6 @@
+Hospital | HIE	OS Compatible with HAPI-FHIR?	OS Compatible with OpenEHR?	IP Address	Successfully Pinged the Other 4 VMs?
+Aspirius	Yes	Yes	192.168.17.202 	YES
+Portage Health	Yes	Yes	192.168.17.203	YES
+BCMH	Yes	Yes	192.168.17.204	YES
+MGH	Yes	Yes	192.168.17.205	YES
+UPHIE	Yes	Yes	192.168.17.206	YES
