@@ -50,7 +50,7 @@ This research was guided by a review of current research and tools. Key methods 
 
 ---
 
-## 📚 References
+## References
 
 1. Propeller Health. (n.d.). *Propeller health platform*. Digital Therapeutics Alliance. [Link](https://dtxalliance.org/products/propeller/)
 2. Yang, M., et al. (2019). *Smart inhalers for COPD*. *Pulmonary Pharmacology & Therapeutics, 59*, 101842. [https://doi.org/10.1016/j.pupt.2019.101842](https://doi.org/10.1016/j.pupt.2019.101842)
