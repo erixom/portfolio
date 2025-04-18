@@ -24,7 +24,7 @@ This research was guided by a review of current research and tools. Key methods 
 ## Findings
 
 - Poor air quality correlates directly with increased asthma medication usage and ER visits.
-- Platforms like **Propeller Health** showed reductions in hospitalizations, improved medication adherence, and high patient satisfaction.
+- Platforms like **Propeller Health** showed reductions in hospitalizations, improved medication adherence, and led to high patient satisfaction.
 - Despite successful outcomes, many of these platforms have shut down.
 - Future research into the integration of data and ML models is needed. 
 
@@ -34,10 +34,9 @@ This research was guided by a review of current research and tools. Key methods 
 
  My contributions included:
 
-- Defining the research problem and designing the methodology
-- Reviewing 7+ peer-reviewed studies and compiling findings
+- Defining the research area and abstract
+- Reviewing 7+ studies and compiling findings
 - Creating a professional presentation and presenting to the instructor via a Zoom Recording (available in this repo)
-- Drafting an implementation roadmap for future work using smart devices and predictive analytics
 
 ---
 
