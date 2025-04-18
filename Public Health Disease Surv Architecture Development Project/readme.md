@@ -73,4 +73,5 @@ This project demonstrates the usage of health informatics tools and how they can
 ## Acknowledgements
 
 Thanks to my instructors for instructing us in these tools. 
+
 ---
