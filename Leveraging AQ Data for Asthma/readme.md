@@ -32,7 +32,7 @@ This research was guided by a review of current research and tools. Key methods 
 
 ## Contributions
 
-This project was researched and presented by **Evan Rixom** as part of a health informatics course. My contributions included:
+ My contributions included:
 
 - Defining the research problem and designing the methodology
 - Reviewing 7+ peer-reviewed studies and compiling findings
