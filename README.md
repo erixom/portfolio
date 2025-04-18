@@ -10,7 +10,7 @@ This portfolio contains some of the work from my Population Health Information c
 
 ## Class Projects
 
-### 1. Leveraging Air Quality Data and Health Informatics to Mitigate Asthma Symptoms [(Leveraging AQ Data for Asthma)](Leveraging AQ Data for Asthma)
+### 1. Leveraging Air Quality Data and Health Informatics to Mitigate Asthma Symptoms [Click here](Leveraging AQ Data for Asthma)
 - A research project exploring the usage of air quality data and other tools to improve outcomes in asthma patients. 
 
 ### 2. Public Health Disease Surveillance Architecture Development Project
