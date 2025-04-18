@@ -2,8 +2,6 @@
 
 ## Project Overview
 
-This project demonstrates the deployment and usage of a multi-node, interoperable architecture for **disease surveillance** using health informatics tools.
-
 We implemented an environment of **five Linux-based virtual machines**, simulating four independent Upper Peninsula hospitals using **OpenEMR** and a centralized **HAPI-FHIR** server for **FHIR-based data exchange**, all within **Michigan Tech's VCenter**.
 
 Additional tools used:
